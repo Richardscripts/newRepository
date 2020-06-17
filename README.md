@@ -1,2 +1,3 @@
-# newRepository
-Just toying around with Github
+## newRepository
+
+* Just toying around with Github
